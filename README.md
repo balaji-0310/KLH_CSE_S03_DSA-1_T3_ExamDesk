@@ -12,7 +12,8 @@
 ## 3. Team Members
 - Member 1: [K.BALAJI] – [2620030011]
 - Member 2: [D.AJAY SIDDARTH] – [2620030181]
-
+- Member 3: [Charan] - [2620030247]
+  
 ## 4. Project Supervisor
 **Dr. Madhavi Karumudi**
 
